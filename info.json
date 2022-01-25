@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1046.0517000000002,
+    "videos": [
         "Coda - Eternamente-ji3IqmSd5QI.mp4",
         "Creedence Clearwater Revival - Fortunate Son-ec0XKhAHR5I.mp4",
         "Esta vez ya no-z2tL1_LXU1w.mp4",
@@ -108,7 +109,5 @@
         "los hermanos vega - nunca mas podre olvidarte-5ZJid5N7DCU.mp4",
         "Café Tacvba - Aprovéchate-N9eroXvvCiI.mp4",
         "Camilo Sesto - Miénteme-50nc4TJ47w8.mp4"
-    ],
-    "id": "h1",
-    "total_size": 997.5927509765625
+    ]
 }
